@@ -1,0 +1,67 @@
+/* Wrapper for the entire login form */
+.admin-form-wrapper {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+  }
+  
+  /* Container for the form */
+  .admin-form-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-top: 60px;
+    background-color: #fff;
+    padding: 40px 30px;
+    width: 350px;
+    height: 500px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+  }
+  
+  /* Title styling */
+  .admin-form-title {
+    font-size: 28px;
+    font-weight: 800;
+    font-family: 'Lucida Sans', Geneva, sans-serif;
+    margin-bottom: 30px;
+  }
+  
+  /* Styling for input fields */
+  .admin-form-fields {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .admin-input {
+    width: 100%;
+    padding: 12px 15px;
+    border-radius: 20px;
+    border: 1px solid #c0c0c0;
+    outline: none;
+  }
+  
+  /* Submit button styling */
+  .admin-form-btn {
+    width: 100%;
+    padding: 10px 15px;
+    background-color: teal;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    font-family: 'Lucida Sans', Geneva, sans-serif;
+  }
+  
+  .admin-form-btn:hover {
+    background-color: #004d4d;
+  }
+  
+  .admin-form-btn:active {
+    box-shadow: none;
+  }
+  
