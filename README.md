@@ -2,6 +2,9 @@
 
 **Care Console** is a comprehensive healthcare management system built using the MERN stack and Tailwind CSS, specifically designed to provide a seamless healthcare experience for students in university hostels. The system includes features like ambulance tracking, patient information sharing, isolation alerts, pharmacy delivery, and real-time device monitoring to enhance health accessibility, especially for users with impairments. The project also includes a React Native mobile app for Android, connecting to the backend for a synchronized user experience.
 
+
+[![Demo Video](https://img.shields.io/badge/Demo-Video%20Available-blue)](https://youtu.be/D6t5Nh9xGmU) [![GitHub](https://img.shields.io/github/stars/hariramjitech/EvoLumin?style=social)](https://github.com/hariramjitech/EvoLumin)
+
 ---
 
 ## 📑 **Table of Contents**
